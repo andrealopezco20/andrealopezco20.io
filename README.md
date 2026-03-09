@@ -1,158 +1,96 @@
-<h1 align="center">Hi 👋, I'm Andrea López</h1>
-<h3 align="center">Computer Science Student | Artificial Intelligence & Deep Learning</h3>
+<table>
+<tr>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Deep+Learning+Developer;Computer+Vision+Engineer;NLP+Researcher;Building+AI+solutions+for+real+world+problems"/>
-</p>
+<td width="35%" align="center">
 
----
+<img src="https://avatars.githubusercontent.com/u/TU_ID?v=4" width="180" style="border-radius:50%">
 
-## 👩‍💻 About Me
+### Andrea López
 
-🎓 10th semester **Computer Science student**  
-🤖 Specializing in **Artificial Intelligence and Deep Learning**  
-🧠 Experience with **Computer Vision and Natural Language Processing**  
-🚀 Interested in building **intelligent systems for real-world problems**  
-🌎 Based in **Peru (GMT-5)**  
+Computer Science Student  
+Artificial Intelligence & Deep Learning  
 
----
+📍 Peru  
+📧 alopezco@unsa.edu.pe  
 
-## 🧠 Tech Stack
+</td>
 
-<p align="center">
+<td width="65%">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,git,linux,fastapi,tensorflow,pytorch,opencv"/>
+## About Me
 
-</p>
+Computer Science student specializing in **Artificial Intelligence and Deep Learning**.
 
-### 🤖 AI / Machine Learning
-- Deep Learning
-- Vision Transformers (ViT)
-- CNN
-- LSTM
-- Transformers (BERT, GPT)
+Experienced in developing intelligent systems using:
 
-### 👁️ Computer Vision
-- OpenCV  
-- MediaPipe  
-- Image Processing  
+- Computer Vision  
+- Natural Language Processing  
+- Deep Learning  
 
-### 📝 Natural Language Processing
-- HuggingFace Transformers
-- SpaCy
-- NLTK
-
-### ⚙️ Tools
-- Git
-- Jupyter Notebook
-- Google Colab
-- Google Cloud Platform (AI Platform, Cloud Storage)
+Interested in building **AI solutions for real-world problems**.
 
 ---
 
-# 🚀 Featured Projects
+## Technical Skills
 
-## 🧠 NLP Toxicity Detection API
+**Programming**
 
-REST API for **automatic detection of toxicity, violence and hate speech** using Transformer models.
+Python • C++ • SQL  
 
-**Features**
-- Transformer-based text classification
-- REST API with FastAPI
-- Database with SQLAlchemy
-- Interactive documentation with Swagger
+**AI / ML**
 
-**Tech**
+TensorFlow • PyTorch • Transformers • CNN • LSTM  
 
-`Python` `FastAPI` `PyTorch` `Transformers` `SQLAlchemy` `SQLite`
+**Computer Vision**
 
----
+OpenCV • MediaPipe • Vision Transformers  
 
-## 🤟 Peruvian Sign Language Recognition
+**NLP**
 
-Real-time **Peruvian sign language recognition system** using **MediaPipe and LSTM neural networks**.
+BERT • GPT • SpaCy • NLTK  
 
-The system detects hand gestures and classifies sign language gestures to improve accessibility for the deaf community.
+</td>
 
-**Tech**
-
-`Python` `MediaPipe` `OpenCV` `LSTM`
+</tr>
+</table>
 
 ---
 
-## 👁️ Diabetic Retinopathy Detection
+# Projects
+
+### NLP Toxicity Detection API
+
+REST API for detecting **toxicity, violence and hate speech** using Transformer models.
+
+**Tech:**  
+Python • FastAPI • PyTorch • Transformers • SQLAlchemy
+
+---
+
+### Peruvian Sign Language Recognition
+
+Real-time **sign language recognition system** using MediaPipe and LSTM networks.
+
+**Tech:**  
+Python • MediaPipe • OpenCV • LSTM
+
+---
+
+### Diabetic Retinopathy Detection
 
 Deep learning model using **CNNs** to detect diabetic retinopathy from retinal images.
 
-The project applied **medical image preprocessing and image analysis techniques** to achieve high detection accuracy.
-
-**Tech**
-
-`Python` `TensorFlow` `Keras` `OpenCV` `CNN`
+**Tech:**  
+Python • TensorFlow • Keras • OpenCV
 
 ---
 
-## ✏️ Hand-Drawn Diagram Recognition
-
-System for **analyzing hand-drawn diagrams** using computer vision and OCR.
-
-Capabilities:
-- shape detection  
-- text recognition  
-- connection detection  
-
-Allows diagrams to be **automatically digitized**.
-
-**Tech**
-
-`Python` `OpenCV` `Tesseract OCR` `Deep Learning`
-
----
-
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎓 Education
-
-🎓 **BSc in Computer Science**  
-Universidad Nacional de San Agustín – Peru  
-2021 – Present
-
----
-
-# 📜 Certifications
-
-📄 Advanced English Certification  
-Centro de Idiomas – UNSA (2023)
-
----
-
-# 🌎 Languages
-
-🇪🇸 Spanish — Native  
-🇬🇧 English — Intermediate  
-
----
-
-# 📫 Contact
-
-📧 **Email:** alopezco@unsa.edu.pe  
-
----
-
-<p align="center">
-✨ Always learning and exploring new ways to apply Artificial Intelligence ✨
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight">
 </p>
